@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python3
 
 import termuxgui as tg
 import time
